@@ -49,4 +49,4 @@
     * AWS charge for 2 CPU/10 GB RAM even though you use 0.5 CPU. If you're frugal, might not work for your use case and technology.
     * Because of no daemonset, any custom logging (nodename/metadata) that you want to implement could be a difficult challenge. 
 * Deployment strategy
-    * Rolling update (gradual replacement of old with new one) with max surgae/max unavailable. Default for maxsurge is 25% i.e number of pods more than the desired number.
+    * Rolling update (gradual replacement of old with new one) with max surge/max unavailable. Default for maxsurge is 25% i.e number of pods more than the desired number.
