@@ -16,3 +16,9 @@
 montage border-output.png border-output.png border-output.png border-output.png border-output.png border-output.png \
 -tile 3x2 -geometry 600x600+0+0 -background white -gravity center 4x6_template.jpg
 ```
+
+# Note
+```
+// This will install convert and montage
+brew install imagemagick
+```
