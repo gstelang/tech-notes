@@ -8,8 +8,8 @@
 ```
 6. Add a border so you can cut the image using scissors once you print it.
 ```
-// This adds border of 1 px.
- magick output.png -border 1 border-output.png
+// This adds border of 5 px.
+magick output.png -border 5 border-output.png
 ```
 7. Create a montage so you can send it to print at Walgreens/CVS. This can print 6 photos.
 ```
