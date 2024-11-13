@@ -24,6 +24,6 @@ brew install imagemagick
 ```
 
 
-# Investigate
+# Investigate how to remove background
 * https://github.com/danielgatis/rembg
 * Train a custom model using u-2-net
