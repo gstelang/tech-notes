@@ -22,3 +22,8 @@ montage border-output.png border-output.png border-output.png border-output.png 
 // This will install convert and montage
 brew install imagemagick
 ```
+
+
+# Investigate
+* https://github.com/danielgatis/rembg
+* Train a custom model using u-2-net
